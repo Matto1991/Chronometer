@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(14, 51, 98);
+}
+h1 {
+  color: aliceblue;
+  font-size: 50px;
+  font-family: cursive;
+  text-shadow: 5px -5px 5px rgb(0, 0, 0);
+}
+
+.container {
+  height: 98vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.time {
+  color: rgb(254, 246, 246);
+  font-size: 150px;
+  text-shadow: 5px -5px 5px rgb(0, 0, 0);
+}
+button {
+  background-color: rgba(77, 140, 184, 0.249);
+  color: rgb(175, 177, 208);
+  border: none;
+  padding: 10px 25px;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: rgb(254, 246, 246);
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
