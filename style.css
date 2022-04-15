@@ -21,6 +21,10 @@ h1 {
   font-size: 150px;
   text-shadow: 5px -5px 5px rgb(0, 0, 0);
 }
+.img{
+  width: 160px;
+  
+}
 button {
   background-color: rgba(77, 140, 184, 0.249);
   color: rgb(175, 177, 208);
